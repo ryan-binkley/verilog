@@ -1,4 +1,4 @@
-`include "half_adder/half_adder.sv"
+`include "half_adder.sv"
 `timescale 1ps/1ps
 module half_adder_tb();
 
